@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/cli.js",
+    "start": "node examples/demo.js",
     "test": "vitest",
     "build": "echo 'No build step required for Node.js'"
   },
